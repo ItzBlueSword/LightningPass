@@ -12,7 +12,7 @@ To use this password generator, you can access it directly from the web at https
 
 1. Clone the GitHub repository to your local machine using the command:
 ```
-  git clone https://github.com/itzbluesword/lightningpass.git
+  git clone https://github.com/itzbluesword/LightningPass.git
 ```
 
 2. Navigate to the cloned directory using your preferred command line interface (CLI) or terminal. <br>
