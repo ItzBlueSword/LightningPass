@@ -8,7 +8,7 @@ LightningPass is a web-based password generator application that can generate st
 * Option to copy generated password to clipboard for easy use.
 
 ## Installation
-To use this password generator, you can access it directly from the web at https://itzbluesword/LightningPass.github.io. If you prefer to run the application locally on your machine, you can follow these steps:
+To use this password generator, you can access it directly from the web at https://itzbluesword/LightningPass.github.io If you prefer to run the application locally on your machine, you can follow these steps:
 
 1. Clone the GitHub repository to your local machine using the command:
 ```
