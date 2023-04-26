@@ -1,6 +1,6 @@
 <h1 align="center">LightningPass</h1>
 <h2>Description</h2>
-**LightningPass** is a web-based password generator application that can generate strong and secure passwords of varying lengths with user-specified character sets. This password generator is built using HTML, CSS, and JavaScript and can be accessed directly from the web or downloaded and run locally on your machine.
+LightningPass is a web-based password generator application that can generate strong and secure passwords of varying lengths with user-specified character sets. This password generator is built using HTML, CSS, and JavaScript and can be accessed directly from the web or downloaded and run locally on your machine.
 
 ## Features
 * Generates secure passwords of varying lengths.
